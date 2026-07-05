@@ -3,19 +3,20 @@ Inventory.py
 (Shoe inventory program)
 
 Description:
-The code featured in the remote reposity does the following for a shoe shop
+The code featured in the remote repository does the following for a shoe shop
 1.Gets the cost of the shoe and total value
 2.Gets the quantity and highest quantity of shoes
-3.Reads the shoes data and captures it(Via the txt file)
+3.Reads the shoes data and captures it (Via the txt file)
 4.To view all the shoes and to find a specific shoe
-5.Which shoes need to be restocked and also the amount the shoe shop has instock of each shoe.
+5.Which shoes need to be restocked and also the amount the shoe shop has in stock of each shoe.
 6.The user can also add and remove shoes if needed.
 
-It has been all neaty organised in a menu for the user as seen below.
+It has been all neatly organised in a menu for the user as seen below.
 
-if there are any questions please feel free to ask.
+if there are any question’s please feel free to ask.
 
 Kind regards
 Richard Horn
+
 
 
